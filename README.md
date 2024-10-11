@@ -19,9 +19,18 @@ Sivi is an English language learning app that helps users practice conversations
   <img src="https://github.com/user-attachments/assets/922cf8e4-ee27-49bf-998f-f98fa3ae27fa" width="250px" alt="Screenshot 4"/>
 </div>
 
+## Video Link
+
+(https://drive.google.com/file/d/1jrdR0QcX0ev05Knr_6uiXE8HajuDsaht/view?usp=drive_link)
+
+
+
 ## Getting Started
 
 Follow these instructions to set up and run the project on your local machine for development and testing purposes.
+
+
+
 
 ### Prerequisites
 
