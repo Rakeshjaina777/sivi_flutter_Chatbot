@@ -1,2 +1,19 @@
-# sivi_flutter_assignment
-Sivi is an English language learning app that helps users practice conversations, get speech corrections, and engage in media-based learning (images/videos). It provides an intuitive interface where users can have spoken and text-based conversations, with real-time speech recognition, corrections, and personalized feedback.
+# Hello World
+
+A new Flutter project created with FlutLab - https://flutlab.io
+
+## Getting Started
+
+A few resources to get you started if this is your first Flutter project:
+
+- https://flutter.dev/docs/get-started/codelab
+- https://flutter.dev/docs/cookbook
+
+For help getting started with Flutter, view our
+https://flutter.dev/docs, which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## Getting Started: FlutLab - Flutter Online IDE
+
+- How to use FlutLab? Please, view our https://flutlab.io/docs
+- Join the discussion and conversation on https://flutlab.io/residents
